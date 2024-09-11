@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+id = "ShapesGenerator"
+version = "2.0.0"
+name = "Shapes Generator"
+author = "José Marín"
+tagline = "Generate and overlay various shapes on your renders"
+description = """
+v.2.0.0
+
+Generate and overlay various shapes on your renders in Blender.
+"""
+blender_version_min = "4.2.0"
+license = ["free licensing"]
+tags = ["Compositing", "Visualization"]
+type = "add-on"
+maintainer = "José Marín <marinfarinajose@gmail.com>"
