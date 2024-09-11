@@ -1,6 +1,6 @@
 schema_version = "1.0.0"
 id = "ShapesGenerator"
-version = "2.0.0"
+version = "1.0.0"
 name = "Shapes Generator"
 author = "José Marín"
 tagline = "Generate and overlay various shapes on your renders"
